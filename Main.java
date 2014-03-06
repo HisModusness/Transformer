@@ -18,6 +18,7 @@ public class Main {
        // DON'T CHANGE ABOVE THIS LINE
        //---------------------------------------------------------------------------------------------------------------
        transformers.add(new ExampleTransformer());
+       transformers.add(new TestTransformer());
 
 
        // DON'T CHANGE BELOW THIS LINE
